@@ -10,7 +10,7 @@ const Navbar = () => {
         <Link href={'/'}>
           <BookMarked />
         </Link>
-        <Link className={buttonVariants()} href={'/sign-in'}>Sign In</Link>
+        <Link className={buttonVariants()} href={'/sign-in'}>Entrar</Link>
       </div>
     </div>
   )
